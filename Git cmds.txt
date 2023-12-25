@@ -1,0 +1,12 @@
+git cmds
+
+git init - initialises a respository(.git - hidden file) in project folder
+
+git status - status history
+
+echo "text" > names.txt - create a txt file with the text in quotes
+
+git add . - add files in the current directory
+
+git commit -m "message" - committing to the respository with message
+
