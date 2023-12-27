@@ -10,3 +10,13 @@ git add . - add files in the current directory
 
 git commit -m "message" - committing to the respository with message
 
+git clone - get a clone of the project in the respository
+
+git branch [branch name] = Create a new branch
+
+git merge [brance name] - merges the current branch with the main branch 
+
+Note: Always dont merge directly with the main branch, try forking the project and give a pull request and compare code and merge with the main branch
+
+
+
